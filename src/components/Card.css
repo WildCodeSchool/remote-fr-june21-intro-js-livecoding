@@ -1,0 +1,12 @@
+.card {
+    background-color: white;
+    margin: 10px;
+}
+
+.card h3 {
+    text-align: center;
+}
+
+.card p {
+    padding: 10px;
+}

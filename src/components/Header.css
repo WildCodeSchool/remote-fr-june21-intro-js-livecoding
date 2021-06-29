@@ -1,0 +1,10 @@
+nav {
+    background-color: rgb(135, 159, 181);
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+nav img {
+    height: 100%;
+}

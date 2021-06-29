@@ -1,0 +1,7 @@
+.card-container {
+    background-color: rgb(205, 213, 181);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
